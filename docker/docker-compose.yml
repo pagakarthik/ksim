@@ -1,6 +1,6 @@
 services:
-  ksim-dev:
-    image: ksim-jax-cu12:latest
+  ksim-dev-118:
+    image: ksim-jax-cu118:latest
     build:
       context: .
       dockerfile: Dockerfile
